@@ -1,5 +1,5 @@
 /*
-CORS Anywhere as a Cloudflare Worker!
+CORS Anywhere as a Cloudflare Worker!s
 (c) 2019 by Zibri (www.zibri.org)
 email: zibri AT zibri DOT org
 https://github.com/Zibri/cloudflare-cors-anywhere
